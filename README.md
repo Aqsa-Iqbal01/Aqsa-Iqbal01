@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Aqsa Iqbal</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Loading..." alt="Banner" />
+  <img src="https://cdn.pixabay.com/photo/2018/01/08/06/52/woman-3060641_1280.jpg" alt="Girl Coding" width="600" />
+
 </p>
 
 <h3 align="center">👩‍💻 Agentic AI Developer | 💻 Fullstack Developer</h3>
@@ -31,16 +32,6 @@ I am a passionate **Agentic AI Developer** and a skilled **Fullstack Developer**
 
 - Developing agentic systems with autonomous decision-making.
 - Crafting responsive, user-centric fullstack applications.
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqsa-iqbal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsa-iqbal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 

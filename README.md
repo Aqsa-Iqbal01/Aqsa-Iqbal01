@@ -109,12 +109,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aqsa-Iqbal01&theme=tokyonight" alt="Productive Time" height="170" />
   </p>
 
-   ### 📊 GitHub Streak
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Aqsa-Iqbal01&theme=tokyonight&v=2" alt="GitHub Streak" height="170" />
-  </p>
-  ---
+  
 
   ### 📬 Connect With Me
 

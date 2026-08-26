@@ -58,14 +58,20 @@
 
   ---
 
-  ### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aqsa-iqbal01&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqsa-iqbal01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"
-  height="160" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsa-iqbal01&theme=tokyonight" alt="GitHub Streak" height="160" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aqsa-Iqbal01&theme=tokyonight" alt="Profile Overview" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aqsa-Iqbal01&theme=tokyonight" alt="GitHub Stats" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aqsa-Iqbal01&theme=tokyonight" alt="Top Languages" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aqsa-Iqbal01&theme=tokyonight" alt="Productive Time" height="170" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Aqsa-Iqbal01&theme=tokyonight" alt="GitHub Streak" height="170" />
   </p>
 
   ---

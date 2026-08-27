@@ -7,7 +7,7 @@
 
   ---
 
-  ### 🔥 About Me
+  ### ✨ About Me
 
   I'm an **Agentic AI Developer** and **Forward Deployed Engineer** — I build AI agents and full-stack solutions that solve real problems, working directly with clients to
   take ideas from concept to deployed product.
